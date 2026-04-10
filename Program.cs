@@ -1,5 +1,9 @@
 ﻿using static System.Reflection.Metadata.BlobBuilder;
 using System;
+using System.Runtime.InteropServices;
+using System.Runtime.Intrinsics.X86;
+using static System.Formats.Asn1.AsnWriter;
+using System.Reflection.Emit;
 
 namespace ConsoleApp7
 {
@@ -37,7 +41,7 @@ namespace ConsoleApp7
 
             #endregion
             #region QUESTION04
-            
+
 
             // Q: Explain the difference with examples.
 
@@ -45,9 +49,23 @@ namespace ConsoleApp7
 
                Inside Main 'methodVar' is method-level; it only exists within Main. */
 
-               // int methodVar = 50;
+            // int methodVar = 50;
 
             #endregion
+            #region QUESTION05
+            //Q: What is block - level scope ?
+            // A variable created inside { }
+            // stays inside { }. It is born at the opening brace and 'dies' at the closing brace
+            // You cannot use it outside
+            #endregion
+
+
+
+
+
+
+
+
 
 
 
