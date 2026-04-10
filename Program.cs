@@ -65,9 +65,17 @@ namespace ConsoleApp7
                Static Variables: Live as long as the application is running. */
             #endregion
             #region QUESTION07
-           // Garbage Collector?
+            // Garbage Collector?
             /* A: automatic memory manager. it tracks objects on the Heap and 
                deletes them when no references to them remain to free up memory. */
+            #endregion
+            #region QUESTION08
+
+
+           // Variable Shadowing?
+            /* A: Shadowing occurs when a variable in an inner scope has the same name as 
+               one in an outer scope. C# allows shadowing class fields with local variables, 
+               but not local variables within nested blocks in the same method. */
             #endregion
 
 
