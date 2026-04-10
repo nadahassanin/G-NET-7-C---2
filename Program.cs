@@ -120,6 +120,12 @@ namespace ConsoleApp7
             //    Console.WriteLine("Cleanup code here.");
             //}
             #endregion
+            #region QUESTION17
+            //Stack and Heap Memory
+            /* A: Stack: Fast, small memory for Value Types (int, double) and reference pointers.
+               Heap: Large memory for Reference Types (Objects, Strings). */
+
+            #endregion
 
 
 
