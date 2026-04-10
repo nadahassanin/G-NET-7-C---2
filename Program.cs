@@ -36,6 +36,18 @@ namespace ConsoleApp7
              modification and can improve performance. */
 
             #endregion
+            #region QUESTION04
+            
+
+            // Q: Explain the difference with examples.
+
+            /* A: classField (above) is class-level; it's accessible by any method in the class.
+
+               Inside Main 'methodVar' is method-level; it only exists within Main. */
+
+               // int methodVar = 50;
+
+            #endregion
 
 
 
