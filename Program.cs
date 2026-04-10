@@ -72,11 +72,20 @@ namespace ConsoleApp7
             #region QUESTION08
 
 
-           // Variable Shadowing?
+            // Variable Shadowing?
             /* A: Shadowing occurs when a variable in an inner scope has the same name as 
                one in an outer scope. C# allows shadowing class fields with local variables, 
                but not local variables within nested blocks in the same method. */
             #endregion
+            #region QUESTION09 
+            //C# Naming Rules?
+            /* 1. Must start with a letter or underscore.
+               2. No digits at the start. 
+               3. No spaces.
+               4. No reserved keywords (unless using @). 
+               5. Case-sensitive. */
+            #endregion
+
 
 
 
