@@ -64,7 +64,11 @@ namespace ConsoleApp7
             /* A: Local Variables: Live only while the method is executing.
                Static Variables: Live as long as the application is running. */
             #endregion
-
+            #region QUESTION07
+           // Garbage Collector?
+            /* A: automatic memory manager. it tracks objects on the Heap and 
+               deletes them when no references to them remain to free up memory. */
+            #endregion
 
 
 
