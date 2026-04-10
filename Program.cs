@@ -126,6 +126,16 @@ namespace ConsoleApp7
                Heap: Large memory for Reference Types (Objects, Strings). */
 
             #endregion
+            #region QUESTION19
+            //Object in C#
+            /* A: 'System.Object' is the base class for everything. 
+             * Inherited methods include:
+               ToString()
+               Equals()
+               GetHashCode()
+               GetType()
+            */
+            #endregion
 
 
 
