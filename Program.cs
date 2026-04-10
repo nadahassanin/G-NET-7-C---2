@@ -85,6 +85,12 @@ namespace ConsoleApp7
                4. No reserved keywords (unless using @). 
                5. Case-sensitive. */
             #endregion
+            #region QUESTION10
+            //Naming Conventions?
+            /* (a) Local Variables: camelCase
+               (b) Class Names: PascalCase 
+               (c) Constants: PascalCase  */
+            #endregion
 
 
 
