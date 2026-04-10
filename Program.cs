@@ -103,6 +103,23 @@ namespace ConsoleApp7
 
 
 
+            #region QUESTION13
+            //try-catch-finally
+            /* A: The 'finally' block executes regardless of whether an exception occurred or not. */
+            //try
+            //{
+            //    int x = 0;
+            //    int y = 5 / x;
+            //}
+            //catch (Exception)
+            //{
+            //    Console.WriteLine("Error caught.");
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Cleanup code here.");
+            //}
+            #endregion
 
 
 
