@@ -58,6 +58,12 @@ namespace ConsoleApp7
             // stays inside { }. It is born at the opening brace and 'dies' at the closing brace
             // You cannot use it outside
             #endregion
+            #region QUESTION06
+
+            //Variable Lifetime -Local vs Static?
+            /* A: Local Variables: Live only while the method is executing.
+               Static Variables: Live as long as the application is running. */
+            #endregion
 
 
 
