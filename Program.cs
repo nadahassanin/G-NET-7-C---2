@@ -92,7 +92,12 @@ namespace ConsoleApp7
                (c) Constants: PascalCase  */
             #endregion
 
-
+            #region QUESTION11
+            //Error Types?
+            /* 1. Syntax Error: Code grammar mistake 
+               2. Runtime Error: Crashes during execution 
+               3. Logical Error: Runs but gives wrong results  */
+            #endregion
 
 
 
