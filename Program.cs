@@ -29,6 +29,14 @@ namespace ConsoleApp7
             // var implicitNumber = 10; 
 
             #endregion
+            #region QUESTION03
+            // Q: Syntax and why use them?
+            // const int  ID = 3;
+            /* A: Use constants for values that never change. They prevent accidental 
+             modification and can improve performance. */
+
+            #endregion
+
 
 
 
