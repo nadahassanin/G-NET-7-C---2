@@ -7,7 +7,7 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-           
+
 
 
 
@@ -19,6 +19,17 @@ namespace ConsoleApp7
 
 
             #endregion
+
+
+            #region QUESTION02
+            // Q: Difference between explicit and implicit declaration?
+            // EXPLICIT: Specify the type clearly.
+            // int explicitNumber = 10;
+            // IMPLICIT: Use 'var', compiler determines the type.
+            // var implicitNumber = 10; 
+
+            #endregion
+
 
 
 
